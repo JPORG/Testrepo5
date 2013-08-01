@@ -1,9 +1,9 @@
-[wl]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-Blueprint/Liferay Blueprint Deployment.jpeg
+[wl]: https://raw.github.com/jayashreeigate/Testrepo5/master/Virtual Machine System% Report Custom task.jpg
 
 ## Success
 Your application has been successfully imported.
 ###Display Blueprint Image 
-[![/Liferay Blueprint Deployment][wl]][wl]
+[![/Virtual Machine System% Report Custom task[wl]][wl]
 
 For more information about this application visit <webpage link>
 
