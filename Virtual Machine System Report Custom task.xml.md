@@ -1,8 +1,9 @@
-https://raw.github.com/jayashreeigate/Testrepo5/master/Virtual%20Machine%20System%20Report%20Custom%20task.jpg
+
 ## Success
 Your application has been successfully imported.
 ###Display Blueprint Image 
-[![Virtual%20Machine%20System%20Report%20Custom%20task][wl]][wl]
+
+![alt tag](https://raw.github.com/jayashreeigate/Testrepo5/master/Virtual%20Machine%20System%20Report%20Custom%20task.jpg)
 
 For more information about this application visit <webpage link>
 
