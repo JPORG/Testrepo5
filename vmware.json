@@ -5,14 +5,14 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"Liferay Standalone.xml",                
-				"exportedFileReadme":"Liferay Standalone.xml.readme",                
-				"importSectionHeader":"Liferay Standalone",                
+				"exportFileName":"Virtual Machine System Report Custom task.xml",                
+				"exportedFileReadme":"Virtual Machine System Report Custom task.xml.readme",                
+				"importSectionHeader":"Virtual Machine System Report Custom task",                
 				"exportedWithAppDVersion":5.0,                
 				"optional":{                    
-					"nextStepsMarkdownFile":"Liferay Standalone.xml.md",                    
+					"nextStepsMarkdownFile":"Virtual Machine System Report Custom task.xml.md",                    
 					"enableConsoleLogging":true,                    
-					"exportedFileErrorReadme":"Liferay Standalone.xml.error.readme"                
+					"exportedFileErrorReadme":"Virtual Machine System Report Custom task.xml.error.readme"                
 				}            
 			}        
 		}    
