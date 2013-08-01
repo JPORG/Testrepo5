@@ -2,7 +2,7 @@ https://raw.github.com/jayashreeigate/Testrepo5/master/Virtual%20Machine%20Syste
 ## Success
 Your application has been successfully imported.
 ###Display Blueprint Image 
-[![Virtual Machine System Report Custom task][wl]][wl]
+[![Virtual%20Machine%20System%20Report%20Custom%20task][wl]][wl]
 
 For more information about this application visit <webpage link>
 
