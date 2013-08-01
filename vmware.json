@@ -5,14 +5,14 @@
 		},        
 		"applications":{            
 			"applicationDirectorWebImport":{                
-				"exportFileName":"Oracle Service Bus 11g.xml",                
-				"exportedFileReadme":"Oracle Service Bus 11g.xml.readme",                
-				"importSectionHeader":"Oracle Service Bus 11g",                
+				"exportFileName":"Liferay Standalone.xml",                
+				"exportedFileReadme":"Liferay Standalone.xml.readme",                
+				"importSectionHeader":"Liferay Standalone",                
 				"exportedWithAppDVersion":5.0,                
 				"optional":{                    
-					"nextStepsMarkdownFile":"Oracle Service Bus 11g.xml.md",                    
+					"nextStepsMarkdownFile":"Liferay Standalone.xml.md",                    
 					"enableConsoleLogging":true,                    
-					"exportedFileErrorReadme":"Oracle Service Bus 11g.xml.error.readme"                
+					"exportedFileErrorReadme":"Liferay Standalone.xml.error.readme"                
 				}            
 			}        
 		}    

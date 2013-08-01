@@ -1,9 +1,9 @@
-[wl]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-Blueprint/AD-ADFS-Blueprint.png
+[wl]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-Blueprint/Liferay Blueprint Deployment.jpeg
 
 ## Success
 Your application has been successfully imported.
 ###Display Blueprint Image 
-[![AD-ADFS-Properties][wl]][wl]
+[![/Liferay Blueprint Deployment][wl]][wl]
 
 For more information about this application visit <webpage link>
 
